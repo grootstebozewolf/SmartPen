@@ -1,0 +1,15 @@
+D:\Work\Projects\SmartPen\CountWidgetCS\bin\Release\CountWidgetCS.dll
+D:\Work\Projects\SmartPen\CountWidgetCS\bin\Release\CountWidgetCS.pdb
+D:\Work\Projects\SmartPen\CountWidgetCS\bin\Release\SmartPen.dll
+D:\Work\Projects\SmartPen\CountWidgetCS\bin\Release\SmartPen.pdb
+D:\Work\Projects\SmartPen\CountWidgetCS\obj\Release\CountWidgetCS.csprojResolveAssemblyReference.cache
+D:\Work\Projects\SmartPen\CountWidgetCS\obj\Release\Config\CountWidgetDialog.baml
+D:\Work\Projects\SmartPen\CountWidgetCS\obj\Release\CountWidget.baml
+D:\Work\Projects\SmartPen\CountWidgetCS\obj\Release\Config\CountWidgetDialog.g.cs
+D:\Work\Projects\SmartPen\CountWidgetCS\obj\Release\CountWidget.g.cs
+D:\Work\Projects\SmartPen\CountWidgetCS\obj\Release\CountWidgetCS_MarkupCompile.cache
+D:\Work\Projects\SmartPen\CountWidgetCS\obj\Release\CountWidgetCS.g.resources
+D:\Work\Projects\SmartPen\CountWidgetCS\obj\Release\CountWidgetCS.Properties.Resources.resources
+D:\Work\Projects\SmartPen\CountWidgetCS\obj\Release\CountWidgetCS.csproj.GenerateResource.Cache
+D:\Work\Projects\SmartPen\CountWidgetCS\obj\Release\CountWidgetCS.dll
+D:\Work\Projects\SmartPen\CountWidgetCS\obj\Release\CountWidgetCS.pdb

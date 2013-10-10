@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountWidgetCS", "CountWidgetCS.csproj", "{515BBCEF-812C-4C05-BE1E-FBC7A54B1E9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartPen", "..\SmartPen\SmartPen.csproj", "{39D41DD4-7267-47B1-B4DC-2309045332BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{515BBCEF-812C-4C05-BE1E-FBC7A54B1E9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{515BBCEF-812C-4C05-BE1E-FBC7A54B1E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{515BBCEF-812C-4C05-BE1E-FBC7A54B1E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{515BBCEF-812C-4C05-BE1E-FBC7A54B1E9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39D41DD4-7267-47B1-B4DC-2309045332BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39D41DD4-7267-47B1-B4DC-2309045332BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39D41DD4-7267-47B1-B4DC-2309045332BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39D41DD4-7267-47B1-B4DC-2309045332BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

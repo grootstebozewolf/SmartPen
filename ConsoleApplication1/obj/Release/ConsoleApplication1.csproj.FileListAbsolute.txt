@@ -1,0 +1,8 @@
+D:\Work\Projects\SmartPen\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+D:\Work\Projects\SmartPen\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+D:\Work\Projects\SmartPen\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+D:\Work\Projects\SmartPen\ConsoleApplication1\bin\Release\SmartPen.dll
+D:\Work\Projects\SmartPen\ConsoleApplication1\bin\Release\SmartPen.pdb
+D:\Work\Projects\SmartPen\ConsoleApplication1\obj\Release\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Work\Projects\SmartPen\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+D:\Work\Projects\SmartPen\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb

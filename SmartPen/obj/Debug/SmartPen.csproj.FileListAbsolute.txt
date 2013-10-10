@@ -1,0 +1,5 @@
+D:\Work\Projects\SmartPen\SmartPen\bin\Debug\SmartPen.dll
+D:\Work\Projects\SmartPen\SmartPen\bin\Debug\SmartPen.pdb
+D:\Work\Projects\SmartPen\SmartPen\obj\Debug\SmartPen.csprojResolveAssemblyReference.cache
+D:\Work\Projects\SmartPen\SmartPen\obj\Debug\SmartPen.dll
+D:\Work\Projects\SmartPen\SmartPen\obj\Debug\SmartPen.pdb

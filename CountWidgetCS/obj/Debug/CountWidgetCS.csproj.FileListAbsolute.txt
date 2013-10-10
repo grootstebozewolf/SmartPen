@@ -1,0 +1,27 @@
+C:\Program Files (x86)\ArcGIS SDKs\WPF10.1.1\sdk\samples\sampleapplication\Operations Dashboard Samples\CountWidgetCS\bin\Debug\CountWidgetCS.dll
+C:\Program Files (x86)\ArcGIS SDKs\WPF10.1.1\sdk\samples\sampleapplication\Operations Dashboard Samples\CountWidgetCS\bin\Debug\CountWidgetCS.pdb
+C:\Program Files (x86)\ArcGIS SDKs\WPF10.1.1\sdk\samples\sampleapplication\Operations Dashboard Samples\CountWidgetCS\obj\Debug\Config\CountWidgetDialog.baml
+C:\Program Files (x86)\ArcGIS SDKs\WPF10.1.1\sdk\samples\sampleapplication\Operations Dashboard Samples\CountWidgetCS\obj\Debug\CountWidget.baml
+C:\Program Files (x86)\ArcGIS SDKs\WPF10.1.1\sdk\samples\sampleapplication\Operations Dashboard Samples\CountWidgetCS\obj\Debug\Config\CountWidgetDialog.g.cs
+C:\Program Files (x86)\ArcGIS SDKs\WPF10.1.1\sdk\samples\sampleapplication\Operations Dashboard Samples\CountWidgetCS\obj\Debug\CountWidget.g.cs
+C:\Program Files (x86)\ArcGIS SDKs\WPF10.1.1\sdk\samples\sampleapplication\Operations Dashboard Samples\CountWidgetCS\obj\Debug\CountWidgetCS_MarkupCompile.cache
+C:\Program Files (x86)\ArcGIS SDKs\WPF10.1.1\sdk\samples\sampleapplication\Operations Dashboard Samples\CountWidgetCS\obj\Debug\CountWidgetCS.g.resources
+C:\Program Files (x86)\ArcGIS SDKs\WPF10.1.1\sdk\samples\sampleapplication\Operations Dashboard Samples\CountWidgetCS\obj\Debug\CountWidgetCS.Properties.Resources.resources
+C:\Program Files (x86)\ArcGIS SDKs\WPF10.1.1\sdk\samples\sampleapplication\Operations Dashboard Samples\CountWidgetCS\obj\Debug\CountWidgetCS.csproj.GenerateResource.Cache
+C:\Program Files (x86)\ArcGIS SDKs\WPF10.1.1\sdk\samples\sampleapplication\Operations Dashboard Samples\CountWidgetCS\obj\Debug\CountWidgetCS.dll
+C:\Program Files (x86)\ArcGIS SDKs\WPF10.1.1\sdk\samples\sampleapplication\Operations Dashboard Samples\CountWidgetCS\obj\Debug\CountWidgetCS.pdb
+D:\Work\Projects\SmartPen\CountWidgetCS\bin\Debug\CountWidgetCS.dll
+D:\Work\Projects\SmartPen\CountWidgetCS\bin\Debug\CountWidgetCS.pdb
+D:\Work\Projects\SmartPen\CountWidgetCS\bin\Debug\SmartPen.dll
+D:\Work\Projects\SmartPen\CountWidgetCS\bin\Debug\SmartPen.pdb
+D:\Work\Projects\SmartPen\CountWidgetCS\obj\Debug\CountWidgetCS.csprojResolveAssemblyReference.cache
+D:\Work\Projects\SmartPen\CountWidgetCS\obj\Debug\Config\CountWidgetDialog.baml
+D:\Work\Projects\SmartPen\CountWidgetCS\obj\Debug\CountWidget.baml
+D:\Work\Projects\SmartPen\CountWidgetCS\obj\Debug\Config\CountWidgetDialog.g.cs
+D:\Work\Projects\SmartPen\CountWidgetCS\obj\Debug\CountWidget.g.cs
+D:\Work\Projects\SmartPen\CountWidgetCS\obj\Debug\CountWidgetCS_MarkupCompile.cache
+D:\Work\Projects\SmartPen\CountWidgetCS\obj\Debug\CountWidgetCS.g.resources
+D:\Work\Projects\SmartPen\CountWidgetCS\obj\Debug\CountWidgetCS.Properties.Resources.resources
+D:\Work\Projects\SmartPen\CountWidgetCS\obj\Debug\CountWidgetCS.csproj.GenerateResource.Cache
+D:\Work\Projects\SmartPen\CountWidgetCS\obj\Debug\CountWidgetCS.dll
+D:\Work\Projects\SmartPen\CountWidgetCS\obj\Debug\CountWidgetCS.pdb
